@@ -67,20 +67,20 @@ module.exports =
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ 	return __webpack_require__(__webpack_require__.s = 11);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 0:
+/***/ 11:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__("D:\\reactapp\\nextapp\\node_modules\\next\\dist\\pages\\_error.js");
+module.exports = __webpack_require__(12);
 
 
 /***/ }),
 
-/***/ "D:\\reactapp\\nextapp\\node_modules\\next\\dist\\pages\\_error.js":
+/***/ 12:
 /***/ (function(module, exports) {
 
 module.exports = require("D:\\reactapp\\nextapp\\node_modules\\next\\dist\\pages\\_error.js");
@@ -88,4 +88,3 @@ module.exports = require("D:\\reactapp\\nextapp\\node_modules\\next\\dist\\pages
 /***/ })
 
 /******/ });
-//# sourceMappingURL=_error.js.map
